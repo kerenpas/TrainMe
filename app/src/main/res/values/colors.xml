@@ -1,0 +1,17 @@
+<!-- colors.xml -->
+<resources>
+    <!-- Primary brand color (medium gold) -->
+    <color name="primary">#E6BD63</color>
+    <!-- Darker gold for status bar and app bar -->
+    <color name="primary_dark">#C6A14D</color>
+    <!-- Lighter gold accent -->
+    <color name="primary_light">#F8D889</color>
+    <!-- Golden accent -->
+    <color name="accent">#FFCA28</color>
+    <!-- Text colors -->
+    <color name="text_on_light">#5D4411</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <!-- Background colors -->
+    <color name="background_light">#FFFBEF</color>
+    <color name="background_dark">#3D3319</color>
+</resources>
